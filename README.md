@@ -1,17 +1,24 @@
-# DKlabyrinthe
+# DK Labyrinth
 
 A maze game inspired by Donkey Kong, developed in Python.
 
+## Description
+Navigate through challenging levels, avoid obstacles, and reach the goal! This game is built using Python and Pygame.
+
 ## Features
-- Navigate through challenging levels.
-- Simple controls using the keyboard.
-- Multiple levels with increasing difficulty.
+- Multiple levels with increasing difficulty
+- Keyboard controls
+- Simple graphics with classic Donkey Kong style
 
-## Installation
+## Project Structure
+- `src-Dklabyrinthe/` – Python source code  
+- `dklabyrinthe_assets/` – images, level files, and other game assets  
 
-### Prerequisites
-- Python 3.x installed
-- Pygame library installed
+## Running the Game
 
-```bash
-pip install pygame
+### From Source (Recommended)
+1. Clone or download the repository.
+2. Make sure Python 3.x is installed.
+3. Install Pygame:
+   ```bash
+   pip install pygame
